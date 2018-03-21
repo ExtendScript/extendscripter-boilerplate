@@ -1,0 +1,25 @@
+{
+  "name": "@extendscripters/template",
+  "version": "0.0.1",
+  "description": "This template makes it easy to start a new ExtendScript project.",
+  "main": "template.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitBruno/extendscripter-template.git"
+  },
+  "keywords": [
+    "extendscript"
+  ],
+  "contributers": "Bruno Herfst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GitBruno/extendscripter-template/issues"
+  },
+  "homepage": "https://github.com/GitBruno/extendscripters/wiki",
+  "devDependencies": {
+    "extendscript-bundlr": ">=0.3.1"
+  }
+}
