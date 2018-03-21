@@ -4,7 +4,8 @@
   "description": "This template makes it easy to start a new ExtendScript project.",
   "main": "template.js",
   "scripts": {
-    "test": ""
+    "bundle": "exsbundlr -i ./template.source.js -o ./template.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
