@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GitBruno/extendscripter-template.git"
+    "url": "git+https://github.com/ExtendScript/extendscripter-template.git"
   },
   "keywords": [
     "extendscript"
   ],
-  "contributers": "Bruno Herfst",
+  "contributers": "extendscript.org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GitBruno/extendscripter-template/issues"
+    "url": "https://github.com/ExtendScript/extendscripter-template/issues"
   },
-  "homepage": "https://github.com/GitBruno/extendscripters/wiki",
+  "homepage": "https://github.com/ExtendScript/extendscripters/wiki",
   "devDependencies": {
     "extendscript-bundlr": ">=0.3.1"
   }

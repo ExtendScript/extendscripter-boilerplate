@@ -3,7 +3,7 @@
 
   A template to kickstart your ExtendScript development
 
-  https://github.com/GitBruno/extendscripter-template
+  https://github.com/ExtendScript/extendscripter-template
 
 */
 
