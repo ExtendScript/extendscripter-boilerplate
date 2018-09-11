@@ -2,9 +2,9 @@
   "name": "@extendscripters/template",
   "version": "0.0.1",
   "description": "This template makes it easy to start a new ExtendScript project.",
-  "main": "template.js",
+  "main": "app.jsx",
   "scripts": {
-    "bundle": "exsbundlr -i ./template.source.js -o ./template.js",
+    "bundle": "extendscriptr --script ./src/app.js --output ./dist/app.jsx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,13 +14,13 @@
   "keywords": [
     "extendscript"
   ],
-  "contributers": "extendscript.org",
+  "contributors": "extendscript.org",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ExtendScript/extendscripter-template/issues"
   },
   "homepage": "https://github.com/ExtendScript/extendscripters/wiki",
   "devDependencies": {
-    "extendscript-bundlr": ">=0.3.1"
+    "extendscriptr": ">=1.2.1"
   }
 }
